@@ -34,7 +34,7 @@ Language:		Java 17
 ### [Cloning the repository]()
 
 ```shell
-  git clone https://github.com/prasku5/Nekikx_Ecommerce_Project.git
+   git clone https://github.com/manasakinnera25/Nekikx_ecommerce.git
 ```
 
 ### [Start the app]()
