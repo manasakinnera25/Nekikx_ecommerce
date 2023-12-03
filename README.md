@@ -1,8 +1,8 @@
-# [Nekikx]()[ E-Commerce Store ](https://github.com/demitraps/ecommerce-store-next13#full-stack-nextjs-13-e-commerce-store--nextjs-13-app-router-react-tailwind-prisma-mysql)
+# [Nekikx]()[ E-Commerce Store]
 
 Welcome to Nekikx ecommerce store, a one-stop destination for all the shopping needs! This repository has following features
 
-## [Features](https://github.com/demitraps/ecommerce-store-next13#features)
+## [Features]
 
 * Login/Sign up Functionality
 * View different categories
@@ -14,7 +14,7 @@ Welcome to Nekikx ecommerce store, a one-stop destination for all the shopping n
 * Stripe checkout with multiple payments support
 * Add reviews to products
 
-## [Tech Stack](https://github.com/demitraps/ecommerce-store-next13#tech-stack)
+## [Tech Stack]
 
 **Frontend:**
 
